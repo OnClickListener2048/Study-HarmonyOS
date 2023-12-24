@@ -201,4 +201,5 @@ HarmonyOS 完整设计规范 文档地址：https://developer.huawei.com/consume
 
 HarmonyOS 鸿蒙学堂地址：https://hmxt.org/documents
 
+学习交流群![67a760642cb5778b4cb0795e428f3db](https://github.com/OnClickListener2048/Study-HarmonyOS/assets/22124534/2381367a-6a05-4408-bd18-5e3fc324592b)
 
